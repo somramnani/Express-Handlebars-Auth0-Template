@@ -9,7 +9,7 @@ A starter template that uses Express, Handlebars and Auth0.
 - Passport
 - Sequelize
 - MySQL
--Auth0
+- Auth0
 
 ## 	&#x1f5d2; Notes
 - In schema.sql change the database name to your database name.
